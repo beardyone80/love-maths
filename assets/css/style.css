@@ -163,15 +163,15 @@ body {
     color: white;
 }
 
-.btn--gray {
+.btn--grey {
     margin-top: 25px;
     background-color: #445361;
     border: 1px transparent;
     border-radius: 20px;
 }
 
-.btn--gray:active,
-.btn--gray:hover {
+.btn--grey:active,
+.btn--grey:hover {
     background-color: #0d1013;
 }
 
